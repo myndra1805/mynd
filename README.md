@@ -1,0 +1,3 @@
+# mynd
+
+Coba remote
